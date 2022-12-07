@@ -5,7 +5,7 @@
 
 ## Work experience
 
-* _**[Native Instruments GmbH](https://www.native-instruments.com/en/company/)**_ **January 2019 - present**
+* _**[Native Instruments GmbH](https://www.native-instruments.com/en/company/)**_ **January 2019 - October 2022**
 	* *November 2020 - present*
 		* **Position:** Senior Frontend Engineer, Tech Lead
 
