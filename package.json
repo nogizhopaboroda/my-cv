@@ -7,10 +7,10 @@
     "markdown-pdf": "^9.0.0"
   },
   "devDependencies": {
-    "md-to-pdf": "^2.4.2"
+    "md-to-pdf": "^5.2.0"
   },
   "scripts": {
-    "build": "md-to-pdf --config-file config.js README.md CV_Zhukov.pdf"
+    "build": "md-to-pdf --config-file config.js < README.md > CV.pdf"
   },
   "repository": {
     "type": "git",
