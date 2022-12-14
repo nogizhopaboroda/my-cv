@@ -5,6 +5,11 @@ module.exports = {
     "smartypants": true,
   },
   "css": `
+    .markdown-body {
+      font-size: 11px;
+      line-height: 1.5;
+      word-wrap: break-word;
+    }
     p {
       margin-bottom: 0.6em !important;
     }

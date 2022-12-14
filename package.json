@@ -1,12 +1,8 @@
 {
   "name": "my-cv",
-  "version": "1.0.0",
-  "description": "[Send email](mailto:al.zhukoff@gmail.com) | [Github profile](https://github.com/nogizhopaboroda) | [Linkedin profile](https://www.linkedin.com/pub/alexander-zhukov/6b/172/a48)",
-  "main": "index.js",
+  "version": "1.1.0",
+  "description": "git+markdown based personal CV",
   "dependencies": {
-    "markdown-pdf": "^9.0.0"
-  },
-  "devDependencies": {
     "md-to-pdf": "^5.2.0"
   },
   "scripts": {
