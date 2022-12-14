@@ -10,6 +10,13 @@ module.exports = {
       line-height: 1.5;
       word-wrap: break-word;
     }
+    a {
+      color: #0969da;
+    }
+    strong a {
+      text-decoration: none;
+      font-size: 12px;
+    }
     p {
       margin-bottom: 0.6em !important;
     }
