@@ -5,6 +5,14 @@
 
 ## Work experience
 
+* _**[Loudly GmbH](https://www.loudly.com/about)**_ **January 2023 - now**
+	* **Position:** Senior Frontend Engineer
+
+	* **Skills:**  Javascript, Typescript, React, Redux/RTK, Web Audio
+
+	* **Job Responsibilities:** Website development
+
+
 * _**[Native Instruments GmbH](https://www.native-instruments.com/en/company/)**_ **January 2019 - October 2022**
 	* *November 2020 - present*
 		* **Position:** Senior Frontend Engineer, Tech Lead
@@ -82,13 +90,15 @@
 
 ## Programming skills
 * JavaScript, TypeScript
-* NodeJS
+* NodeJS (**Express, Koa, NextJS**)
 * GraphQL
 * JS Frameworks and Libs (**React**)
-* JS unit testing tools and frameworks (**Jest, Jasmine**)
-* Build Tools (**Webpack, Rollup, Parcel**)
+* JS unit testing tools and frameworks (**Jest**)
+* Build Tools (**Webpack, Vite, Rollup, Parcel**)
+* State management frameworks (**Redux/RTK, Zustand**)
 * HTML, CSS, Less/Sass/Stylus, Postcss
 * Web Components
+* Web Audio
 * git
 * Scrum/Kanban and other Agile Methodologies
 
@@ -100,6 +110,12 @@
 <br/>
 
 ## Side projects
+* [Web Noise](https://github.com/audio-node/web-noise)
+
+  ***Graphical modular software music studio***
+
+  **Technologies**: React, Web Audio, React Flow
+
 * [mightygoose.com](http://mightygoose.com)
 
   ***Music search engine, music blogs crawler***
