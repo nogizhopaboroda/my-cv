@@ -10,11 +10,11 @@
 
 	* **Skills:**  Javascript, Typescript, React, Redux/RTK, Web Audio
 
-	* **Job Responsibilities:** Website development
+	* **Job Responsibilities:** Website development, Architecture, Tech roadmap
 
 
 * _**[Native Instruments GmbH](https://www.native-instruments.com/en/company/)**_ **January 2019 - October 2022**
-	* *November 2020 - present*
+	* *November 2020 - October 2022*
 		* **Position:** Senior Frontend Engineer, Tech Lead
 
 		* **Skills:**  Scrum, Architecture design (UML)
@@ -105,7 +105,7 @@
 ### Beginner experience
 * Python
 * SQL (**PostgreSQL**), Redis
-* Cloud Infrastructure (AWS, GCP, k8s)
+* Cloud Infrastructure (**AWS, GCP, k8s**)
 
 <br/>
 
@@ -114,7 +114,7 @@
 
   ***Graphical modular software music studio***
 
-  **Technologies**: React, Web Audio, React Flow
+  **Technologies**: React, Web Audio, React-Flow
 
 * [mightygoose.com](http://mightygoose.com)
 
@@ -124,6 +124,6 @@
 
   [Crawlers repo](https://github.com/mightygoose/blogspider)
 
-  **Technologies**: Python (Scrapy framework), NodeJS (KoaJS), PostgreSQL, RabbitMQ, Webpack, WebComponents, [modulor lib](https://github.com/modulor-js/modulor)
+  **Technologies**: Python (Scrapy framework), NodeJS (KoaJS), PostgreSQL, RabbitMQ, NextJs, [modulor lib](https://github.com/modulor-js/modulor)
 
   **Platforms**: Heroku, AWS, DigitalOcean, Scrapinghub
